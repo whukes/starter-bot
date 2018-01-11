@@ -1,0 +1,19 @@
+{
+  "name": "starter-bot",
+  "version": "0.0.1",
+  "description": "Basic botkit bot for Cisco Spark",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "botkit": "^0.6.7"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/whukes/starter-bot"
+  },
+  "license": "MIT"
+}
